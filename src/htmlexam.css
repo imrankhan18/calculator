@@ -1,16 +1,34 @@
 #all{
+    overflow:hidden;
     width: 287px;
     height:405px;
     margin-top:10%;
     margin-left:10%;
     
 }
+h2{
+    margin-top:-78px;
+    margin-left:10px;
+    font-size:40px;
+    color:rgb(128,128,133);
+    margin-bottom:30px;
+}
+h1{
+    color:white;
+    margin:0%;
+    padding:0%;
+    
+
+
+
+
+}
 #m1{
     background-color: rgb(45,45,54);
 
 }
 #for0{
-    width:144px;
+    width:143px;
 }
 .lif{
     margin-left:-5px;
@@ -29,8 +47,8 @@ input{
     text-align:right;
     padding-right:5%;
     width:92.4%;
-    border-top-left-radius: 5px;
-    border-top-right-radius: 5px;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
     color:white;
     font-size:30px;
     height:12%;
@@ -43,3 +61,4 @@ input{
     background-color: rgb(65,65,73);
 
 }
+
